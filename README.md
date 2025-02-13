@@ -14,5 +14,10 @@
     mvn spring-boot:run
     ```
 
-![Скриншот](1.png)
-![Скриншот](2.png)
+## Скриншоты
+
+### Пример 1:
+<div style="display: flex; justify-content: space-between;">
+  <img src="1.png" alt="Скриншот 1" style="width: 45%; border-radius: 8px;"/>
+  <img src="2.png" alt="Скриншот 2" style="width: 45%; border-radius: 8px;"/>
+</div>
