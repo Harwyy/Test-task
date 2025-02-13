@@ -13,3 +13,5 @@
     ```bash
     mvn spring-boot:run
     ```
+
+![Скриншот](1.png)
