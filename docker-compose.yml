@@ -1,0 +1,13 @@
+volumes:
+  pg_test_task:
+
+services:
+  test_task_db:
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass
+      - POSTGRES_DB=test_task_db
+    ports:
+      - "127.0.0.1:5432:5432"

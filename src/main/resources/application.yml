@@ -1,0 +1,14 @@
+vaadin:
+  launch-browser: true
+spring:
+  application:
+    name: test-task
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: jdbc:postgresql://localhost:5432/test_task_db
+    username: user
+    password: pass
