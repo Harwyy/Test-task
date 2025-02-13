@@ -23,5 +23,5 @@
 
 ### Пример 2:
 <div style="display: flex; justify-content: space-between;">
-  <img src="1.png" alt="Скриншот 1" style="border-radius: 8px;"/>
+  <img src="2.png" alt="Скриншот 1" style="border-radius: 8px;"/>
 </div>
